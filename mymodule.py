@@ -3,3 +3,4 @@ def energy_conversion(joules: float) -> float:
     if joules < 0:
         raise ValueError("Energy cannot be negative")
     return joules / 4184.0
+#asfasfsa
